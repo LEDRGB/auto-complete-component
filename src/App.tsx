@@ -1,8 +1,10 @@
 import SearchGroup from "./components/SearchGroup/SearchGroup";
+import './App.css';
+
 
 const App = () => {
   return (
-    <div>
+    <div className="App">
       <SearchGroup />
     </div>
   );
