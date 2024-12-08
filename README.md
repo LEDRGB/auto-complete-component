@@ -1,6 +1,4 @@
 
-markdown
-Copy code
 # AutoComplete Component - React Application
 
 This project is a React-based AutoComplete component, bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The AutoComplete component allows users to search and select items, with features such as debounced input, asynchronous data fetching, and keyboard navigation.
